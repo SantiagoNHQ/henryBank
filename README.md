@@ -79,6 +79,7 @@
 ##  📲💥  Cómo puedes contactarme?
 
 </div>
+
 - <a href="https://www.linkedin.com/in/santiagohidalgo-dev/">LinkedIn</a>
 - Email: santiagonicolashq@gmail.com
 
