@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 📌📌 Qué es? 
+## 📌📌 Qué es? 
   
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-### 💻💻 Cuales fueron las tecnologias usadas?
+## 💻💻 Cuales fueron las tecnologias usadas?
 
 </div>
 
@@ -31,9 +31,10 @@
 
 <div align="center">
 
-### 🎯 🎯  Funcionalidades:
+## 🎯 🎯  Funcionalidades:
 
 </div>
+
 #### - Creacion de nuevos usuarios y Login de usuarios existentes.
 
 <div align="center">
