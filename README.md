@@ -19,7 +19,8 @@
 - PostgreSQL
 
 ### 🎯 🎯  Funcionalidades:
-- Creacion de nuevos usuarios y Login de usuarios existentes.
+#### - Creacion de nuevos usuarios y Login de usuarios existentes.
+
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Login.jpg?raw=true" alt="drawing" width="200">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Consolidado.jpg?raw=true" alt="drawing" width="200"/>
@@ -28,8 +29,9 @@
 
 ----------
 
-- Creacion y administracion de contactos y Transferencia tanto en Pesos como en USD a los mismos.
-<div style="text-align:center">
+#### - Creacion y administracion de contactos y Transferencia tanto en Pesos como en USD a los mismos.
+
+<div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Contactos2.jpeg?raw=true" alt="drawing" width="200">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Contactos.jpeg?raw=true" alt="drawing" width="200"/>
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Transfer.jpg?raw=true" alt="drawing" width="200"/>
@@ -37,5 +39,11 @@
 
 ----------
 
+#### - Depositos / Retiros, Visualizacion de movimientos, impresion de comprobantes.
 
+<div align="center">
+  <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/RecargarDinero.jpg?raw=true" alt="drawing" width="200">
+  <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Transacciones.jpg?raw=true" alt="drawing" width="200"/>
+  <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Share.jpeg?raw=true" alt="drawing" width="200"/>
+</div>
 
