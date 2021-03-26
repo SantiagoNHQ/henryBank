@@ -7,13 +7,20 @@
 
 </div>
 
+<div align="center">
 
 ### 📌📌 Qué es? 
+  
+</div>
 
  Es un proyecto desarrollado como parte de la carrera Full Stack Developer de Henry.
  Trata de un banco (con las funcionalidades del mismo) en una Aplicacion movil desarrollada tanto Front-End como Back-End completamente desde 0. 
 
+<div align="center">
+  
 ### 💻💻 Cuales fueron las tecnologias usadas?
+
+</div>
 
 - HTML & CSS
 - JavaScript
@@ -22,7 +29,11 @@
 - NodeJS con Express
 - PostgreSQL
 
+<div align="center">
+
 ### 🎯 🎯  Funcionalidades:
+
+</div>
 #### - Creacion de nuevos usuarios y Login de usuarios existentes.
 
 <div align="center">
