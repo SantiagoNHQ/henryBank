@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/client/assets/logoBlanco.png?raw=true" alt="drawing" width="200"/>
 </div>
 
@@ -39,7 +39,7 @@
 
 ----------
 
-#### - Depositos / Retiros, Visualizacion de movimientos, impresion de comprobantes.
+#### - Depositos / Retiros, Visualizacion de movimientos, envio de comprobantes.
 
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/RecargarDinero.jpg?raw=true" alt="drawing" width="200">
