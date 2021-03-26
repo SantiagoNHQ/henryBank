@@ -63,3 +63,11 @@
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Share.jpeg?raw=true" alt="drawing" width="200"/>
 </div>
 
+----------
+
+#### - Compra y Venta de USD, visualizacion de estadisticas de ingresos y egresos de las cuentas.
+
+<div align="center">
+  <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/CambioDivisas.jpg?raw=true" alt="drawing" width="200">
+  <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Estadisticas.jpeg?raw=true" alt="drawing" width="200"/>
+</div>
