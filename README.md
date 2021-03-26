@@ -35,7 +35,7 @@
 
 </div>
 
-#### - 📍 Creacion de nuevos usuarios y Login de usuarios existentes.
+#### - 📍🏁 Creacion de nuevos usuarios y Login de usuarios existentes.
 
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Login.jpg?raw=true" alt="drawing" width="200">
@@ -45,7 +45,7 @@
 
 ----------
 
-#### - 📍 Creacion y administracion de contactos y Transferencia tanto en Pesos como en USD a los mismos.
+#### - 📍🏁 Creacion y administracion de contactos y Transferencia tanto en Pesos como en USD a los mismos.
 
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/Contactos2.jpeg?raw=true" alt="drawing" width="200">
@@ -55,7 +55,7 @@
 
 ----------
 
-#### - 📍 Depositos / Retiros, Visualizacion de movimientos, envio de comprobantes.
+#### - 📍🏁 Depositos / Retiros, Visualizacion de movimientos, envio de comprobantes.
 
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/RecargarDinero.jpg?raw=true" alt="drawing" width="200">
@@ -65,7 +65,7 @@
 
 ----------
 
-#### - 📍 Compra y Venta de USD, visualizacion de estadisticas de ingresos y egresos de las cuentas.
+#### - 📍🏁 Compra y Venta de USD, visualizacion de estadisticas de ingresos y egresos de las cuentas.
 
 <div align="center">
   <img src="https://github.com/SantiagoNHQ/henryBank/blob/development/img/CambioDivisas.jpg?raw=true" alt="drawing" width="200">
